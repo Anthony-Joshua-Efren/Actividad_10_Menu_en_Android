@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Actividad_10_Menu_en_Android</string>
+    <string name="menu_popup">Menú Popup</string>
+    <string name="menu_contextual">Menú Contextual</string>
+    <string name="opciones">Opciones</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="compartir">Compartir</string>
+    <string name="guardar">Guardar</string>
+</resources>
